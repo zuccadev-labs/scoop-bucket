@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AppLogger telemetry CLI",
   "homepage": "https://github.com/zuccadev-labs/appLoggers",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/zuccadev-labs/appLoggers/releases/download/applogger-cli-v0.1.0/applogger-cli-windows-amd64.exe",
-      "hash": "8d2990588a8e518917ed6244304d61b53c62c9806ba556cc95f06c722e04109b"
+      "url": "https://github.com/zuccadev-labs/appLoggers/releases/download/applogger-cli-v0.1.1/applogger-cli-windows-amd64.exe",
+      "hash": "c4eb7f2498409afc8277a233f779f7212eb335f243d0f1264fa3c94fb4f4b07e"
     }
   },
   "bin": "applogger-cli-windows-amd64.exe"
