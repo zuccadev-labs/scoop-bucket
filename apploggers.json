@@ -1,12 +1,12 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "AppLoggers telemetry CLI",
   "homepage": "https://github.com/zuccadev-labs/appLoggers",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/zuccadev-labs/appLoggers/releases/download/apploggers-v0.1.4/apploggers-windows-amd64.exe",
-      "hash": "23cb456146a6e9202c678f5da5b1df345f1d3ad57591f85f3c2fe6c522b95c2f"
+      "url": "https://github.com/zuccadev-labs/appLoggers/releases/download/apploggers-v0.1.5/apploggers-windows-amd64.exe",
+      "hash": "94f5dfc3ac3fbff1e94c1489128d132f65fd772f1df101e645703ff7752afadc"
     }
   },
   "bin": "apploggers-windows-amd64.exe"
